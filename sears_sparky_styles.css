@@ -123,6 +123,9 @@ footer h2{
 
 }
 
+
+
+
 footer a{
     display: inline;
     background-color: #8c1d40;
@@ -136,6 +139,9 @@ footer a{
     font-weight: normal;
 
 }
+
+
+
 footer a:hover{
     color: #ffc627;
     
